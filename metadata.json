@@ -1,0 +1,10 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation",
+    "display-capture"
+  ],
+  "name": "",
+  "description": ""
+}
